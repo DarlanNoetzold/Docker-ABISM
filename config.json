@@ -1,0 +1,16 @@
+{
+    "configurations": {
+        "fileWeatherData" : "WeatherData.json",
+        "fileDailyReport": "SimulatedData_DailyReport.txt",
+        "fileDailyPlantationReport": "SimulatedData_PlantationReport.txt",
+        "fileFinalReport": "SimulatedData_FinalReport.txt",
+        "fileFinalPestReport": "SimulatedData_FinalPestReport.txt",
+        "fileDailyPestReport": "SimulatedData_DailyPestReport.txt",
+        
+        "dataBaseUser": "postgres",
+        "dataBasePass": "12345",
+        "dataBaseHost": "localhost",
+        "dataBasePort": 5432,
+        "dataBase": "agrodb"
+    }
+}
