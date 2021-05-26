@@ -3,3 +3,4 @@
  
  Para baixar a imagem:
  docker push darlannoetzold/abism:tagname
+ tagname: 5.1
