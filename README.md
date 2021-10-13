@@ -16,6 +16,10 @@ Pulgões de cereais (Hemiptera: Aphididae) são pragas economicamente importante
  docker push darlannoetzold/abism:tagname
  <br>
  tagname: 5.1
+ 
+ Execução do ABISM:
+ /home/user/.openmpi/bin/mpirun --allow-run-as-root -np 1 java -jar -Xms512m -Xmx6144m <DIRETÓRIO DO "ABISM.jar"> <DIRETÓRIO DOS DOIS ARQUIVOS .json> <DIRETÓRIO DO "Config.json">
+ 
 
 ---
 
